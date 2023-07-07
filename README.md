@@ -58,11 +58,12 @@ git clone https://github.com/ssungjeee/nudge-prisma.git
 npm run main
 ```
 
-# Generate profile file
+# Install
+```
+npm install
+```
 
-```
-npm install 
-```
+# Generate profile file
 
 ```
 clinic doctor -- node index
