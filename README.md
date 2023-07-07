@@ -53,14 +53,14 @@ async function runThread(prisma: PrismaClient, index: number) {
 git clone https://github.com/ssungjeee/nudge-prisma.git
 ```
 
-# Run
-```
-npm run main
-```
-
 # Install
 ```
 npm install
+```
+# Edit .env file
+
+```
+DATABASE_URL="postgresql://<user>:<password>@localhost:5432/<DB>?schema=public"
 ```
 
 # Generate profile file
@@ -68,6 +68,14 @@ npm install
 ```
 clinic doctor -- node index
 ```
+
+
+# Run
+```
+npm run main
+```
+
+
 
 # Report file
 
