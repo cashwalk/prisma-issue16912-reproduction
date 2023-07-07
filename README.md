@@ -46,12 +46,15 @@ Please check the memory usage of the RSS below.
 
 ## Version 4.8.1
 
-<img width="839" alt="스크린샷 2023-07-07 17 40 33" src="https://github.com/cashwalk/prisma-issue16912-reproduction/assets/138547449/24e4d4d1-471f-45d4-a9d1-de8840930996">
+<img width="839" alt="스크린샷 2023-07-07 17 40 33" src="https://github.com/cashwalk/prisma-issue16912-reproduction/assets/138547449/8bbf2b30-c74b-4747-8667-8031eefb4267">
+
+
 
 
 ## Version 4.9.0
 
-<img width="860" alt="스크린샷 2023-07-07 17 40 43" src="https://github.com/cashwalk/prisma-issue16912-reproduction/assets/138547449/ba8fe0e0-170c-4d50-a4ed-5b9b8caab435">
+<img width="860" alt="스크린샷 2023-07-07 17 40 43" src="https://github.com/cashwalk/prisma-issue16912-reproduction/assets/138547449/399d4de4-fb9b-48a6-b177-5e46ce371ddb">
+
 
 # Clone
 
