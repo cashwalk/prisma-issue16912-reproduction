@@ -3,7 +3,10 @@
 for reproduction of this problem 
 https://github.com/prisma/prisma/issues/16912#issuecomment-1622605478
 
-excuted script(index.ts)
+executed the upsert operation in parallel
+
+script(index.ts)
+
 
 
 ```typescript
@@ -36,6 +39,9 @@ async function runThread(prisma: PrismaClient, index: number) {
     }
 }
 ```
+
+
+Please check the memory usage of the RSS below.
 
 
 ## Version 4.8.1
