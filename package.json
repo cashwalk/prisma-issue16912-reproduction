@@ -11,6 +11,7 @@
     "main": "ts-node index.ts"
   },
   "dependencies": {
-    "@prisma/client": "~4.8.1"
+    "@prisma/client": "~4.8.1",
+    "clinic": "^13.0.0"
   }
 }
