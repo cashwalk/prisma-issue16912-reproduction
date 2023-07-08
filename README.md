@@ -59,7 +59,7 @@ Please check the memory usage of the RSS below.
 # Clone
 
 ```
-git clone https://github.com/ssungjeee/nudge-prisma.git
+https://github.com/cashwalk/prisma-issue16912-reproduction.git
 ```
 
 # Install
